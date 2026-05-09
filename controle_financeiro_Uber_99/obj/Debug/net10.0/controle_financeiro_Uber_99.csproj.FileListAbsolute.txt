@@ -1,0 +1,14 @@
+C:\Users\kesle\source\repos\controle_financeiro_Uber_99\controle_financeiro_Uber_99\bin\Debug\net10.0\controle_financeiro_Uber_99.exe
+C:\Users\kesle\source\repos\controle_financeiro_Uber_99\controle_financeiro_Uber_99\bin\Debug\net10.0\controle_financeiro_Uber_99.deps.json
+C:\Users\kesle\source\repos\controle_financeiro_Uber_99\controle_financeiro_Uber_99\bin\Debug\net10.0\controle_financeiro_Uber_99.runtimeconfig.json
+C:\Users\kesle\source\repos\controle_financeiro_Uber_99\controle_financeiro_Uber_99\bin\Debug\net10.0\controle_financeiro_Uber_99.dll
+C:\Users\kesle\source\repos\controle_financeiro_Uber_99\controle_financeiro_Uber_99\bin\Debug\net10.0\controle_financeiro_Uber_99.pdb
+C:\Users\kesle\source\repos\controle_financeiro_Uber_99\controle_financeiro_Uber_99\obj\Debug\net10.0\controle_financeiro_Uber_99.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kesle\source\repos\controle_financeiro_Uber_99\controle_financeiro_Uber_99\obj\Debug\net10.0\controle_financeiro_Uber_99.AssemblyInfoInputs.cache
+C:\Users\kesle\source\repos\controle_financeiro_Uber_99\controle_financeiro_Uber_99\obj\Debug\net10.0\controle_financeiro_Uber_99.AssemblyInfo.cs
+C:\Users\kesle\source\repos\controle_financeiro_Uber_99\controle_financeiro_Uber_99\obj\Debug\net10.0\controle_financeiro_Uber_99.csproj.CoreCompileInputs.cache
+C:\Users\kesle\source\repos\controle_financeiro_Uber_99\controle_financeiro_Uber_99\obj\Debug\net10.0\controle_financeiro_Uber_99.dll
+C:\Users\kesle\source\repos\controle_financeiro_Uber_99\controle_financeiro_Uber_99\obj\Debug\net10.0\refint\controle_financeiro_Uber_99.dll
+C:\Users\kesle\source\repos\controle_financeiro_Uber_99\controle_financeiro_Uber_99\obj\Debug\net10.0\controle_financeiro_Uber_99.pdb
+C:\Users\kesle\source\repos\controle_financeiro_Uber_99\controle_financeiro_Uber_99\obj\Debug\net10.0\controle_financeiro_Uber_99.genruntimeconfig.cache
+C:\Users\kesle\source\repos\controle_financeiro_Uber_99\controle_financeiro_Uber_99\obj\Debug\net10.0\ref\controle_financeiro_Uber_99.dll
