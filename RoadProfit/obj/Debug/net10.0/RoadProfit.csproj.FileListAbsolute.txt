@@ -1,0 +1,15 @@
+C:\Users\kesle\repos\RoadProfit\RoadProfit\obj\Debug\net10.0\RoadProfit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kesle\repos\RoadProfit\RoadProfit\obj\Debug\net10.0\RoadProfit.AssemblyInfoInputs.cache
+C:\Users\kesle\repos\RoadProfit\RoadProfit\obj\Debug\net10.0\RoadProfit.AssemblyInfo.cs
+C:\Users\kesle\repos\RoadProfit\RoadProfit\obj\Debug\net10.0\RoadProfit.csproj.CoreCompileInputs.cache
+C:\Users\kesle\repos\RoadProfit\RoadProfit\obj\Debug\net10.0\RoadProfit.sourcelink.json
+C:\Users\kesle\repos\RoadProfit\RoadProfit\bin\Debug\net10.0\RoadProfit.exe
+C:\Users\kesle\repos\RoadProfit\RoadProfit\bin\Debug\net10.0\RoadProfit.deps.json
+C:\Users\kesle\repos\RoadProfit\RoadProfit\bin\Debug\net10.0\RoadProfit.runtimeconfig.json
+C:\Users\kesle\repos\RoadProfit\RoadProfit\bin\Debug\net10.0\RoadProfit.dll
+C:\Users\kesle\repos\RoadProfit\RoadProfit\bin\Debug\net10.0\RoadProfit.pdb
+C:\Users\kesle\repos\RoadProfit\RoadProfit\obj\Debug\net10.0\RoadProfit.dll
+C:\Users\kesle\repos\RoadProfit\RoadProfit\obj\Debug\net10.0\refint\RoadProfit.dll
+C:\Users\kesle\repos\RoadProfit\RoadProfit\obj\Debug\net10.0\RoadProfit.pdb
+C:\Users\kesle\repos\RoadProfit\RoadProfit\obj\Debug\net10.0\RoadProfit.genruntimeconfig.cache
+C:\Users\kesle\repos\RoadProfit\RoadProfit\obj\Debug\net10.0\ref\RoadProfit.dll
