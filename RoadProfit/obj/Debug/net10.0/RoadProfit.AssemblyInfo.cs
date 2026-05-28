@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RoadProfit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d4ad9744e6c6d137264976a138d7a5c62caa8b9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+689a3d0d9a6ee5b8cdecb4f4609bbeb52d0611a2")]
 [assembly: System.Reflection.AssemblyProductAttribute("RoadProfit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RoadProfit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

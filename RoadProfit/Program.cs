@@ -10,8 +10,7 @@
 
             decimal revenue = InputHelper.ReadPositiveDecimal("Infome o seu faturamento bruto(ex: 150,00): ");
             decimal KmDriven = InputHelper.ReadPositiveDecimal("Informe o KM percorrido(ex: 150): ");
-            Console.Write("Digite as horas trabalhadas (ex: 08:30): ");
-            decimal hoursWorked = (decimal)TimeSpan.Parse(Console.ReadLine()).TotalHours;
+            decimal hoursWorked = InputHelper.ReadWorkedHours("Informe Quantidade de horas você trabalhou hoje(ex: 08:00): ");
             decimal fuelPrice = InputHelper.ReadPositiveDecimal("Informe o preço do combustivel(ex: 5,80): ");
             decimal fuelEfficiency = InputHelper.ReadPositiveDecimal("Informe o consumo médio do seu carro(ex: 10): ");
 
