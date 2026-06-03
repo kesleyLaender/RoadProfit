@@ -4,9 +4,8 @@
     {
         static void Main(string[] args)
         {
+
             // --- INPUT SECTION ---
-            // Nota: Usando .Parse temporariamente para estruturar a lógica. 
-            // Próxima sprint: Implementar TryParse e loops de validação para evitar exceções de entrada.
 
             decimal revenue = InputHelper.ReadPositiveDecimal("Infome o seu faturamento bruto(ex: 150,00): ");
             decimal KmDriven = InputHelper.ReadPositiveDecimal("Informe o KM percorrido(ex: 150): ");
@@ -17,19 +16,18 @@
             
             // --- LOGIC / CALCULATIONS ---
 
-            // Cálculo do custo estimado baseado na eficiência média (km/l)
             decimal fuelCost = (KmDriven / fuelEfficiency) * fuelPrice;
 
-            // Lucro Líquido (Net Profit): Faturamento menos custo de combustível
             decimal netProfit = revenue - fuelCost;
 
-            // Médias de rentabilidade por tempo e por distância
             decimal profitPerHour = netProfit / hoursWorked;
+
             decimal profitPerKm = netProfit / KmDriven;
 
-            
+
             // --- OUTPUT SECTION ---
-            // Exibição dos resultados formatados como moeda (C2)
+
+            Console.Clear();
             Console.WriteLine("\n-------------------------------------");
             Console.WriteLine("------ RESUMO FINANCEIRO DO DIA ------");
             Console.WriteLine($"Custo estimado na media informada: {fuelCost:C2}");
