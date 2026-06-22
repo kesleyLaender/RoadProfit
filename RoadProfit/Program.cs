@@ -1,4 +1,6 @@
-﻿namespace RoadProfit
+﻿using RoadProfit.Helpers;
+
+namespace RoadProfit
 {
     internal class Program
     {
@@ -8,21 +10,21 @@
             // --- INPUT SECTION ---
 
             decimal revenue = InputHelper.ReadPositiveDecimal("Infome o seu faturamento bruto(ex: 150,00): ");
-            decimal KmDriven = InputHelper.ReadPositiveDecimal("Informe o KM percorrido(ex: 150): ");
-            decimal hoursWorked = InputHelper.ReadWorkedHours("Informe Quantidade de horas você trabalhou hoje(ex: 08:00): ");
+            decimal kmDriven = InputHelper.ReadPositiveDecimal("Informe o KM percorrido(ex: 150): ");
+            TimeSpan hoursWorked = InputHelper.ReadPositiveTimeSpan("Informe Quantidade de horas você trabalhou hoje(ex: 08:00): ");
             decimal fuelPrice = InputHelper.ReadPositiveDecimal("Informe o preço do combustivel(ex: 5,80): ");
             decimal fuelEfficiency = InputHelper.ReadPositiveDecimal("Informe o consumo médio do seu carro(ex: 10): ");
 
             
             // --- LOGIC / CALCULATIONS ---
 
-            decimal fuelCost = (KmDriven / fuelEfficiency) * fuelPrice;
+            decimal fuelCost = (kmDriven / fuelEfficiency) * fuelPrice;
 
             decimal netProfit = revenue - fuelCost;
 
-            decimal profitPerHour = netProfit / hoursWorked;
+            decimal profitPerHour = netProfit / (decimal)hoursWorked.TotalHours;
 
-            decimal profitPerKm = netProfit / KmDriven;
+            decimal profitPerKm = netProfit / kmDriven;
 
 
             // --- OUTPUT SECTION ---

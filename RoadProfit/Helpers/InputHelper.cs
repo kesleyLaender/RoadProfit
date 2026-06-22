@@ -4,7 +4,7 @@ using System.Reflection.Metadata.Ecma335;
 using System.Text;
 using System.Globalization;
 
-namespace RoadProfit
+namespace RoadProfit.Helpers
 {
     internal class InputHelper
     {
@@ -30,7 +30,7 @@ namespace RoadProfit
                     continue;
                 }
 
-                if (parsedValue <= 0)
+                if (parsedValue < 0)
                 {
                     Console.WriteLine("Por favor, apenas valores positivos.");
                     continue;
@@ -41,7 +41,7 @@ namespace RoadProfit
 
         }
 
-        internal static decimal ReadWorkedHours(string message)
+        internal static TimeSpan ReadPositiveTimeSpan(string message)
         {
             TimeSpan parsedHours;
 
@@ -74,35 +74,7 @@ namespace RoadProfit
                     continue;
                 }
 
-                return (decimal)parsedHours.TotalHours;
-            }
-        }
-        internal static int ReadPositiveInt(string message)
-        {
-            while(true)
-            {
-                Console.Write(message);
-                string input = Console.ReadLine();
-
-                if(string.IsNullOrWhiteSpace(input))
-                {
-                    Console.WriteLine("Valor inválido, tente novamente");
-                    continue;
-                }
-
-                if (!int.TryParse(input, out int parsedValue))
-                {
-                    Console.WriteLine("Por favor, apenas numeros inteiros.");
-                    continue;
-                }
-
-                if (parsedValue < 0)
-                {
-                    Console.WriteLine("Informe apenas números positivos por favor.");
-                    continue;
-                }
-
-                return parsedValue;
+                return parsedHours;
             }
         }
     }
