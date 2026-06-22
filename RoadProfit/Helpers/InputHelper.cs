@@ -15,16 +15,16 @@ namespace RoadProfit.Helpers
             {
                 Console.Write(message);
                 string input = Console.ReadLine();
-                
+
                 if (string.IsNullOrWhiteSpace(input))
                 {
                     Console.WriteLine("Por favor digite alguma coisa");
                     continue;
                 }
 
-                string normalizedInput = input.Replace(",",".");
+                string normalizedInput = input.Replace(",", ".");
 
-                if (!decimal.TryParse(normalizedInput,CultureInfo.InvariantCulture, out parsedValue))
+                if (!decimal.TryParse(normalizedInput, CultureInfo.InvariantCulture, out parsedValue))
                 {
                     Console.WriteLine("Por favor digite apenas números.");
                     continue;
@@ -56,7 +56,7 @@ namespace RoadProfit.Helpers
                     continue;
                 }
 
-                if(!input.Contains(':'))
+                if (!input.Contains(':'))
                 {
                     Console.WriteLine("Formato esperado: HH:MM");
                     continue;
@@ -77,5 +77,5 @@ namespace RoadProfit.Helpers
                 return parsedHours;
             }
         }
-    }
+    } 
 }
