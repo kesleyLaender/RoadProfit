@@ -9,6 +9,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{05440EAE-3BAC-2EBD-3863-B96689DF6D9E}|RoadProfit.csproj|c:\\users\\kesle\\repos\\roadprofit\\roadprofit\\helpers\\inputhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{05440EAE-3BAC-2EBD-3863-B96689DF6D9E}|RoadProfit.csproj|solutionrelative:helpers\\inputhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05440EAE-3BAC-2EBD-3863-B96689DF6D9E}|RoadProfit.csproj|c:\\users\\kesle\\repos\\roadprofit\\roadprofit\\models\\workday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05440EAE-3BAC-2EBD-3863-B96689DF6D9E}|RoadProfit.csproj|solutionrelative:models\\workday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05440EAE-3BAC-2EBD-3863-B96689DF6D9E}|RoadProfit.csproj|c:\\users\\kesle\\repos\\roadprofit\\roadprofit\\models\\platformtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05440EAE-3BAC-2EBD-3863-B96689DF6D9E}|RoadProfit.csproj|solutionrelative:models\\platformtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +26,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlatformType.cs",
+              "DocumentMoniker": "C:\\Users\\kesle\\repos\\RoadProfit\\RoadProfit\\Models\\PlatformType.cs",
+              "RelativeDocumentMoniker": "Models\\PlatformType.cs",
+              "ToolTip": "C:\\Users\\kesle\\repos\\RoadProfit\\RoadProfit\\Models\\PlatformType.cs",
+              "RelativeToolTip": "Models\\PlatformType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T08:49:37.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WorkDay.cs",
+              "DocumentMoniker": "C:\\Users\\kesle\\repos\\RoadProfit\\RoadProfit\\Models\\WorkDay.cs",
+              "RelativeDocumentMoniker": "Models\\WorkDay.cs",
+              "ToolTip": "C:\\Users\\kesle\\repos\\RoadProfit\\RoadProfit\\Models\\WorkDay.cs",
+              "RelativeToolTip": "Models\\WorkDay.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T08:43:07.037Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -28,7 +62,7 @@
               "RelativeDocumentMoniker": "Helpers\\InputHelper.cs",
               "ToolTip": "C:\\Users\\kesle\\repos\\RoadProfit\\RoadProfit\\Helpers\\InputHelper.cs",
               "RelativeToolTip": "Helpers\\InputHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA+wE8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-21T07:45:22.835Z",
               "EditorCaption": ""

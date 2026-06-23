@@ -4,14 +4,14 @@ using System.Text;
 
 namespace RoadProfit.Models
 {
-    internal class WorkDay
+    public class WorkDay
     {
-        DateTime date{  get; set; }
-        PlatformType platform { get; set; }
-        decimal StartKm {  get; set; }
-        decimal EndKm { get; set; } 
-        decimal Revenue {  get; set; }
-        TimeSpan workedHours { get; set; }
+        public DateTime date{  get; set; }
+        public PlatformType platform { get; set; }
+        public decimal StartKm {  get; set; }
+        public decimal EndKm { get; set; } 
+        public decimal Revenue {  get; set; }
+        public TimeSpan workedHours { get; set; }
 
 
     }

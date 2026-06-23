@@ -9,11 +9,11 @@ namespace RoadProfit
 
             // --- INPUT SECTION ---
 
-            decimal revenue = InputHelper.ReadPositiveDecimal("Infome o seu faturamento bruto(ex: 150,00): ");
-            decimal kmDriven = InputHelper.ReadPositiveDecimal("Informe o KM percorrido(ex: 150): ");
-            TimeSpan hoursWorked = InputHelper.ReadPositiveTimeSpan("Informe Quantidade de horas você trabalhou hoje(ex: 08:00): ");
-            decimal fuelPrice = InputHelper.ReadPositiveDecimal("Informe o preço do combustivel(ex: 5,80): ");
-            decimal fuelEfficiency = InputHelper.ReadPositiveDecimal("Informe o consumo médio do seu carro(ex: 10): ");
+            decimal revenue = InputHelper.GetDecimal("Infome o seu faturamento bruto(ex: 150,00): ");
+            decimal kmDriven = InputHelper.GetDecimal("Informe o KM percorrido(ex: 150): ");
+            TimeSpan hoursWorked = InputHelper.GetTimeSpan("Informe a quantidade total de horas trabalhadas (ex: 08:00): ");
+            decimal fuelPrice = InputHelper.GetDecimal("Informe o preço do combustivel(ex: 5,80): ");
+            decimal fuelEfficiency = InputHelper.GetDecimal("Informe o consumo médio do seu carro(ex: 10): ");
 
             
             // --- LOGIC / CALCULATIONS ---

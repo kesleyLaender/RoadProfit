@@ -4,7 +4,7 @@ using System.Text;
 
 namespace RoadProfit.Models
 {
-    internal enum PlatformType
+    public enum PlatformType
     {
         Uber,
         App99,
