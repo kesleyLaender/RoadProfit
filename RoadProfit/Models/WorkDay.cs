@@ -8,8 +8,8 @@ namespace RoadProfit.Models
     {
         public DateTime date{  get; set; }
         public PlatformType platform { get; set; }
-        public decimal StartKm {  get; set; }
-        public decimal EndKm { get; set; } 
+        public decimal StartOdometer {  get; set; }
+        public decimal EndOdometer { get; set; } 
         public decimal Revenue {  get; set; }
         public TimeSpan workedHours { get; set; }
 

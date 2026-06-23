@@ -3,20 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\kesle\\repos\\RoadProfit\\RoadProfit\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{05440EAE-3BAC-2EBD-3863-B96689DF6D9E}|RoadProfit.csproj|c:\\users\\kesle\\repos\\roadprofit\\roadprofit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05440EAE-3BAC-2EBD-3863-B96689DF6D9E}|RoadProfit.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{05440EAE-3BAC-2EBD-3863-B96689DF6D9E}|RoadProfit.csproj|c:\\users\\kesle\\repos\\roadprofit\\roadprofit\\models\\fueltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05440EAE-3BAC-2EBD-3863-B96689DF6D9E}|RoadProfit.csproj|solutionrelative:models\\fueltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05440EAE-3BAC-2EBD-3863-B96689DF6D9E}|RoadProfit.csproj|c:\\users\\kesle\\repos\\roadprofit\\roadprofit\\models\\maintenance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05440EAE-3BAC-2EBD-3863-B96689DF6D9E}|RoadProfit.csproj|solutionrelative:models\\maintenance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{05440EAE-3BAC-2EBD-3863-B96689DF6D9E}|RoadProfit.csproj|c:\\users\\kesle\\repos\\roadprofit\\roadprofit\\models\\platformtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{05440EAE-3BAC-2EBD-3863-B96689DF6D9E}|RoadProfit.csproj|solutionrelative:models\\platformtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05440EAE-3BAC-2EBD-3863-B96689DF6D9E}|RoadProfit.csproj|c:\\users\\kesle\\repos\\roadprofit\\roadprofit\\models\\workday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05440EAE-3BAC-2EBD-3863-B96689DF6D9E}|RoadProfit.csproj|solutionrelative:models\\workday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{05440EAE-3BAC-2EBD-3863-B96689DF6D9E}|RoadProfit.csproj|c:\\users\\kesle\\repos\\roadprofit\\roadprofit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05440EAE-3BAC-2EBD-3863-B96689DF6D9E}|RoadProfit.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{05440EAE-3BAC-2EBD-3863-B96689DF6D9E}|RoadProfit.csproj|c:\\users\\kesle\\repos\\roadprofit\\roadprofit\\helpers\\inputhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{05440EAE-3BAC-2EBD-3863-B96689DF6D9E}|RoadProfit.csproj|solutionrelative:helpers\\inputhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05440EAE-3BAC-2EBD-3863-B96689DF6D9E}|RoadProfit.csproj|c:\\users\\kesle\\repos\\roadprofit\\roadprofit\\models\\workday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05440EAE-3BAC-2EBD-3863-B96689DF6D9E}|RoadProfit.csproj|solutionrelative:models\\workday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05440EAE-3BAC-2EBD-3863-B96689DF6D9E}|RoadProfit.csproj|c:\\users\\kesle\\repos\\roadprofit\\roadprofit\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05440EAE-3BAC-2EBD-3863-B96689DF6D9E}|RoadProfit.csproj|solutionrelative:models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05440EAE-3BAC-2EBD-3863-B96689DF6D9E}|RoadProfit.csproj|c:\\users\\kesle\\repos\\roadprofit\\roadprofit\\models\\refuel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05440EAE-3BAC-2EBD-3863-B96689DF6D9E}|RoadProfit.csproj|solutionrelative:models\\refuel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05440EAE-3BAC-2EBD-3863-B96689DF6D9E}|RoadProfit.csproj|c:\\users\\kesle\\repos\\roadprofit\\roadprofit\\models\\maintenancetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05440EAE-3BAC-2EBD-3863-B96689DF6D9E}|RoadProfit.csproj|solutionrelative:models\\maintenancetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +46,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Maintenance.cs",
+              "DocumentMoniker": "C:\\Users\\kesle\\repos\\RoadProfit\\RoadProfit\\Models\\Maintenance.cs",
+              "RelativeDocumentMoniker": "Models\\Maintenance.cs",
+              "ToolTip": "C:\\Users\\kesle\\repos\\RoadProfit\\RoadProfit\\Models\\Maintenance.cs",
+              "RelativeToolTip": "Models\\Maintenance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T08:09:01.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FuelType.cs",
+              "DocumentMoniker": "C:\\Users\\kesle\\repos\\RoadProfit\\RoadProfit\\Models\\FuelType.cs",
+              "RelativeDocumentMoniker": "Models\\FuelType.cs",
+              "ToolTip": "C:\\Users\\kesle\\repos\\RoadProfit\\RoadProfit\\Models\\FuelType.cs",
+              "RelativeToolTip": "Models\\FuelType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T08:05:02.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "PlatformType.cs",
               "DocumentMoniker": "C:\\Users\\kesle\\repos\\RoadProfit\\RoadProfit\\Models\\PlatformType.cs",
               "RelativeDocumentMoniker": "Models\\PlatformType.cs",
@@ -43,42 +89,76 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WorkDay.cs",
-              "DocumentMoniker": "C:\\Users\\kesle\\repos\\RoadProfit\\RoadProfit\\Models\\WorkDay.cs",
-              "RelativeDocumentMoniker": "Models\\WorkDay.cs",
-              "ToolTip": "C:\\Users\\kesle\\repos\\RoadProfit\\RoadProfit\\Models\\WorkDay.cs",
-              "RelativeToolTip": "Models\\WorkDay.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-22T08:43:07.037Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "InputHelper.cs",
-              "DocumentMoniker": "C:\\Users\\kesle\\repos\\RoadProfit\\RoadProfit\\Helpers\\InputHelper.cs",
-              "RelativeDocumentMoniker": "Helpers\\InputHelper.cs",
-              "ToolTip": "C:\\Users\\kesle\\repos\\RoadProfit\\RoadProfit\\Helpers\\InputHelper.cs",
-              "RelativeToolTip": "Helpers\\InputHelper.cs",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAYwHoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-21T07:45:22.835Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kesle\\repos\\RoadProfit\\RoadProfit\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\kesle\\repos\\RoadProfit\\RoadProfit\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwA0AAABsAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-21T07:39:35.574Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MaintenanceType.cs",
+              "DocumentMoniker": "C:\\Users\\kesle\\repos\\RoadProfit\\RoadProfit\\Models\\MaintenanceType.cs",
+              "RelativeDocumentMoniker": "Models\\MaintenanceType.cs",
+              "ToolTip": "C:\\Users\\kesle\\repos\\RoadProfit\\RoadProfit\\Models\\MaintenanceType.cs",
+              "RelativeToolTip": "Models\\MaintenanceType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T08:14:46.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Refuel.cs",
+              "DocumentMoniker": "C:\\Users\\kesle\\repos\\RoadProfit\\RoadProfit\\Models\\Refuel.cs",
+              "RelativeDocumentMoniker": "Models\\Refuel.cs",
+              "ToolTip": "C:\\Users\\kesle\\repos\\RoadProfit\\RoadProfit\\Models\\Refuel.cs",
+              "RelativeToolTip": "Models\\Refuel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T07:57:16.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\kesle\\repos\\RoadProfit\\RoadProfit\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Models\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\kesle\\repos\\RoadProfit\\RoadProfit\\Models\\Vehicle.cs",
+              "RelativeToolTip": "Models\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T07:48:32.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WorkDay.cs",
+              "DocumentMoniker": "C:\\Users\\kesle\\repos\\RoadProfit\\RoadProfit\\Models\\WorkDay.cs",
+              "RelativeDocumentMoniker": "Models\\WorkDay.cs",
+              "ToolTip": "C:\\Users\\kesle\\repos\\RoadProfit\\RoadProfit\\Models\\WorkDay.cs",
+              "RelativeToolTip": "Models\\WorkDay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T08:43:07.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InputHelper.cs",
+              "DocumentMoniker": "C:\\Users\\kesle\\repos\\RoadProfit\\RoadProfit\\Helpers\\InputHelper.cs",
+              "RelativeDocumentMoniker": "Helpers\\InputHelper.cs",
+              "ToolTip": "C:\\Users\\kesle\\repos\\RoadProfit\\RoadProfit\\Helpers\\InputHelper.cs",
+              "RelativeToolTip": "Helpers\\InputHelper.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T07:45:22.835Z"
             }
           ]
         }
