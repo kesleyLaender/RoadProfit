@@ -12,16 +12,20 @@ namespace RoadProfit
 
             // --- INPUT SECTION ---
 
-            decimal revenue = InputHelper.GetDecimal("Infome o seu faturamento bruto(ex: 150,00): ");
-            decimal kmDriven = InputHelper.GetDecimal("Informe o KM percorrido(ex: 150): ");
-            TimeSpan hoursWorked = InputHelper.GetTimeSpan("Informe a quantidade total de horas trabalhadas (ex: 08:00): ");
-            decimal fuelPrice = InputHelper.GetDecimal("Informe o preço do combustivel(ex: 5,80): ");
-            decimal fuelEfficiency = InputHelper.GetDecimal("Informe o consumo médio do seu carro(ex: 10): ");
+            DateTime date = GetDateTime.Run("informe a data do abastecimento ex(DD/MM/AAAA)");
+            decimal revenue = GetDecimal.Run("Infome o seu faturamento bruto(ex: 150,00): ");
+            int startOdometer = GetInt.Run("Informe o odômetro inicial(ex: 150): ");
+            int endOdometer = GetInt.Run("Informe o odômetro final");
+            TimeSpan hoursWorked = GetTimeSpan.Run("Informe a quantidade total de horas trabalhadas (ex: 08:00): ");
+            decimal fuelPrice = GetDecimal.Run("Informe o preço do combustivel(ex: 5,80): ");
+            decimal fuelEfficiency = GetDecimal.Run("Informe o consumo médio do seu carro(ex: 10): ");
 
-            
+
             // --- LOGIC / CALCULATIONS ---
 
-            decimal fuelCost = (kmDriven / fuelEfficiency) * fuelPrice;
+            int kmDriven = endOdometer - startOdometer;
+
+            decimal fuelCost = ((decimal)kmDriven / fuelEfficiency) * fuelPrice;
 
             decimal netProfit = revenue - fuelCost;
 

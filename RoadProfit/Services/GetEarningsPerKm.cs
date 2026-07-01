@@ -5,16 +5,16 @@ namespace RoadProfit.Services
 {
     internal class GetEarningsPerKm
     {
-        public static int Run(WorkDay workDay)
+        public static decimal Run(WorkDay workDay)
         {
             if (workDay.EndOdometer <= workDay.StartOdometer)
                 return 0;
 
-            int kmDriven = workDay.EndOdometer - workDay.StartOdometer;
+            int kmDriven = GetKmDriven.Run(workDay);
 
-            decimal earningsPerKm = workDay.Revenue / kmDriven;
+            decimal earningsPerKm = workDay.Revenue / (decimal)kmDriven;
 
-            return kmDriven;
+            return earningsPerKm;
         }
     }
 }

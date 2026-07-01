@@ -10,8 +10,8 @@ namespace RoadProfit.Services
             if (refuel.Liters == 0 || previousOdometer >= refuel.Odometer)
                 return 0;
 
-            int distanceTraveled = refuel.Odometer - previousOdometer;
-            decimal fuelEfficiency = (decimal)distanceTraveled / refuel.Liters;
+            int kmDriven = refuel.Odometer - previousOdometer;
+            decimal fuelEfficiency = (decimal)kmDriven / refuel.Liters;
 
             return fuelEfficiency;
         }

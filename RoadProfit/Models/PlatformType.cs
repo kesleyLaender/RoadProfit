@@ -4,9 +4,7 @@ namespace RoadProfit.Models
 {
     public enum PlatformType
     {
-        Uber,
-        App99,
-        Indriver,
+        Passenger,
         LastMile
     }
 }

@@ -10,7 +10,7 @@ namespace RoadProfit.Services
             if (workDay.EndOdometer <= workDay.StartOdometer)
                 return 0;
 
-            int kmDriven = workDay.EndOdometer - workDay.StartOdometer;
+            int kmDriven = GetKmDriven.Run(workDay);
             decimal totalCost = ((decimal)kmDriven / fuelEfficiency) * refuel.PricePerLiter;
 
             return totalCost;
